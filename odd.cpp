@@ -10,11 +10,11 @@ cout<<"invalid";
 }
 else if(a%2!=0)
 {
-cout<<"odd";
+cout<<"Odd";
 }
 else if(a%2==0)
 {
-cout<<"even";
+cout<<"Even";
 }
 return 0;
 }
