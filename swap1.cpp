@@ -2,11 +2,12 @@
 using namespace std;
 int main()
 {
-    int a,b,t;
-    cin>>a>>b;
-    t=a;
-    a=b;
-    b=t;
-    cout<<a<<" "<<b;
+    int s,t,p;
+    cin>>s>>t;
+    p=s;
+    s=t;
+    t=p;
+    cout<<s<<" "<<t;
     return 0;
 }
+
