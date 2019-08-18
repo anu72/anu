@@ -1,14 +1,9 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
-    string s;
-    int k,i;
-    cin>>s>>k;
-    for(i=0;i<k;i++)
-    {
-        cout<<s<<endl;
-    }
+    string p,q;
+    cin>>p>>q;
+    cout<<p<<q;
     return 0;
-
 }
