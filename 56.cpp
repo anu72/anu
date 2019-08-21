@@ -20,11 +20,11 @@ int main()
    }
    if(c>=1&& v>=1)
       {
-          cout<<"yes";
+          cout<<"Yes";
       }
       else
         {
-            cout<<"no";
+            cout<<"No";
         }
         return 0;
 }
